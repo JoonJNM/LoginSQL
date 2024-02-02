@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginSQL</string>
+    <string name="username">username_</string>
+    <string name="password">password_</string>
+    <string name="sign_up">sign_up_</string>
+    <string name="username2">username2</string>
+    <string name="password2">password2</string>
+    <string name="login2">login2</string>
+    <string name="not_yet_registered_signup2">not_yet_registered_signup2</string>
+</resources>
